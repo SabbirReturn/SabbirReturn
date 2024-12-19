@@ -35,7 +35,7 @@
 
 <h1></h1>
 <p></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SabbirReturn&show_icons=true&locale=en" alt="SabbirReturn" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SabbirReturn&show_icons=true&locale=en" alt="SabbirReturn" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SabbirReturn&" alt="SabbirReturn" /></p>
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SabbirReturn&show_icons=true&locale=en&layout=compact" alt="SabbirReturn" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SabbirReturn" alt="SabbirReturn" /></a></p> -->
