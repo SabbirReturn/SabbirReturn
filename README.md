@@ -28,7 +28,13 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SabbirReturn&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+<h1></h1>
+<p></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SabbirReturn&show_icons=true&locale=en" alt="SabbirReturn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SabbirReturn&" alt="SabbirReturn" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SabbirReturn&show_icons=true&locale=en&layout=compact" alt="SabbirReturn" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SabbirReturn" alt="SabbirReturn" /></a></p>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
