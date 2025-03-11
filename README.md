@@ -1,5 +1,20 @@
 ### Hi there 👋, My name is Sabbir Hasan
 #### Web Developer
+🚀 Frontend Developer | 💡 JavaScript Enthusiast | 🎨 UI/UX Explorer 
+
+🔹 **Tech Stack:**  
+- 💻 HTML, CSS (TailwindCSS, DaisyUI), JavaScript (ES6+)  
+- ⚡ React, Next.js  
+- 🎨 Figma, UI/UX Design Principles  
+- 📦 Git, GitHub, CI/CD
+
+🔹 **What I Do:**  
+- Crafting sleek, responsive, and user-friendly web apps  
+- Building reusable and maintainable codebases  
+- Exploring new web technologies & sharing knowledge
+
+🌱 Always learning & improving! 🚀
+
 ![Web Developer](https://miro.medium.com/v2/resize:fit:1400/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SabbirReturn&label=Profile%20views&color=0e75b6&style=flat" alt="SabbirReturn" /> </p>
 
