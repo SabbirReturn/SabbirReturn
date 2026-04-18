@@ -1,80 +1,87 @@
-### Hi there 👋, My name is Md.Sabbir Hasan
-#### Web Developer
-🚀 Frontend Developer | 💡 JavaScript Enthusiast | 🎨 UI/UX Explorer 
+<h1 align="center">Hey there 👋, This is Md.Sabbir Hasan</h1>
 
-🔹 **Tech Stack:**  
-- 💻 HTML, CSS (TailwindCSS, DaisyUI), JavaScript (ES6+)  
-- ⚡ React, Next.js  
-- 🎨 Figma, UI/UX Design Principles  
-- 📦 Git, GitHub, CI/CD
+###
 
-🔹 **What I Do:**  
-- Crafting sleek, responsive, and user-friendly web apps  
-- Building reusable and maintainable codebases  
-- Exploring new web technologies & sharing knowledge
+<h3 align="left">👩‍💻  About Me</h3>
 
-🌱 Always learning & improving! 🚀
+###
 
-![Web Developer](https://miro.medium.com/v2/resize:fit:1400/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SabbirReturn&label=Profile%20views&color=0e75b6&style=flat" alt="SabbirReturn" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SabbirReturn&theme=" alt="SabbirReturn" /></a> </p>
-
-- 🌱 I’m currently learning **JavaScript**
-- 💬 Ask me about **JavaScript**
-- 📫 How to reach me **mdsabbirhasan39@gmail.com**
--  ⚡ Fun fact: I am too much funny. 
-
-<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sabbir-39-return/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/SabbirReturn" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:mdsabbirhasan39@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sabbir-39-return/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sabbir-hasan-a071472b7/" height="30" width="40" /></a><a href="https://fb.com/https://www.facebook.com/sabbir39.return/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="https://www.facebook.com/sabbir39.return/" height="30" width="40" /></a></p>
+#### Web Developer<br>🚀 Frontend Developer | 💡 JavaScript Enthusiast | 🎨 UI/UX Explorer <br><br>🔹 **Tech Stack:**  <br>- 💻 HTML, CSS (TailwindCSS, DaisyUI), JavaScript (ES6+)  <br>- ⚡ React <br>- 🎨 Figma, UI/UX Design Principles  <br>- 📦 Git, GitHub, CI/CD<br><br>🔹 **What I Do:**  <br>- Crafting sleek, responsive, and user-friendly web apps  <br>- Building reusable and maintainable codebases  <br>- Exploring new web technologies & sharing knowledge<br><br>🌱 Always learning & improving! 🚀</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+###
 
-<!-- <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirReturn&layout=compact&theme=" alt=SabbirReturn />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SabbirReturn&show_icons=true&locale=en&theme=" alt="SabbirReturn" /></p>
-
-<h1></h1>
-<p></p>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SabbirReturn&show_icons=true&locale=en" alt="SabbirReturn" /></p> -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SabbirReturn&" alt="SabbirReturn" /></p> -->
-<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SabbirReturn&show_icons=true&locale=en&layout=compact" alt="SabbirReturn" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SabbirReturn" alt="SabbirReturn" /></a></p> --> -->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SabbirReturn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SabbirReturn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirReturn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=SabbirReturn&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/SabbirReturn">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SabbirReturn&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabbirReturn&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SabbirReturn&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SabbirReturn&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabbirReturn&theme=2077" height="180em" />
+  <img height="150" src="https://drive.google.com/file/d/1jTOCHGRXLRkbxvPXdRop4twYyRCMTDSH/view"  />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SabbirReturn&theme=default"/>
 
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SabbirReturn.SabbirReturn&"  />
+</div>
+
+###
+
+<p align="left">Contact with me:</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/sabbir-39-return/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/sabbir39.return/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="40" alt="facebook logo"  />
+  </a>
+  <a href="mdsabbirhasan39@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SabbirReturn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SabbirReturn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SabbirReturn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/SabbirReturn/SabbirReturn/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
